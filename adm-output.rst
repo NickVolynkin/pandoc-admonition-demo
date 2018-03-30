@@ -3,7 +3,17 @@ Header
 
 .. raw:: html
 
-   <div class="admonition note">
+   <div class="note">
+
+.. raw:: html
+
+   <div class="admonition-title">
+
+Note
+
+.. raw:: html
+
+   </div>
 
 Note text
 
@@ -13,7 +23,17 @@ Note text
 
 .. raw:: html
 
-   <div class="admonition warning">
+   <div class="warning">
+
+.. raw:: html
+
+   <div class="admonition-title">
+
+Warning
+
+.. raw:: html
+
+   </div>
 
 Warning text
 
@@ -23,7 +43,17 @@ Warning text
 
 .. raw:: html
 
-   <div class="admonition caution">
+   <div class="caution">
+
+.. raw:: html
+
+   <div class="admonition-title">
+
+Caution
+
+.. raw:: html
+
+   </div>
 
 Caution text
 
